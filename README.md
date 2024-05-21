@@ -10,3 +10,5 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 - 📫 Como me encontrar: dev.junior20@gmail.com
 - ⚡ Fato divertido: Tenho 1.98 de altura, meus amigos dizem que sou um Nerd disfarçado
 - 🎓 Pode ser interessante: Sou considerado aluno destaque da faculdade
+- ⏰ Como passo meu tempo: Dando mentorias, livros técnicos e batendo um DayZ
+- 🧠 Uma frase: O conhecimento é a unica coisa que todos invejam mas ninguem pode roubar
