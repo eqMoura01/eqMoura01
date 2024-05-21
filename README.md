@@ -9,3 +9,4 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 - 💬 Pergunte-me sobre: Java e Spring
 - 📫 Como me encontrar: dev.junior20@gmail.com
 - ⚡ Fato divertido: Tenho 1.98 de altura, meus amigos dizem que sou um Nerd disfarçado
+- 🎓 Pode ser interessante: Sou considerado aluno destaque da faculdade
