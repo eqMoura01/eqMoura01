@@ -15,7 +15,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 - 👨🏻‍💻 Work: [![Github Badge](https://img.shields.io/badge/-unisec-6633cc?style=flat-square&logo=Github&logoColor=white&link=http://github.com/unisec)](http://github.com/unisec) 
 
 ## Skills
-![Static Badge](https://img.shields.io/badge/-GIT-white?style=for-the-badge&logo=git)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -39,6 +38,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![Git](https://img.shields.io/badge/-%20%20%20GIT-grey?style=for-the-badge&logo=git)
 
 ## ✅ Livros já lidos
 - Entendendo Algoritmos
