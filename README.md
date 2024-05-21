@@ -1,22 +1,11 @@
-## Hi there 👋
+# Olá! Me chamo Victor Mora, mas também sou conhecido como eqMoura 👋
 
-- 🔭 Atualmente trabalhando como estagiario DEVops na empresa Unisec
-- 🌱 Constantemente evoluindo
-- ⚡ Se você tem um projeto e quer tirar do papel, me chama pra codar junto. Sou parceiro
-- 💬 Me pergunte sobre com o que sonho em trabalhar e eu te respondo: Sonho em trabalhar como TechLead, tenho espirito de liderança
+Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolvedor apaixonado por Spring. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado. Sinta-se à vontade para explorar e colaborar!
 
-
-<!--
-**eqMoura01/eqMoura01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+🎓 Formação: Cursando Analise e desenvolvimento de softwares pelo SENAC Florianopolis
+💼 Atualmente trabalhando: Estagiario DEVops - Unisec
+🌱 Aprendendo: CI/CD, Docker, AWS
+💬 Pergunte-me sobre: Java e Spring
+📫 Como me encontrar: dev.junior20@gmail.com
+⚡ Fato divertido: Tenho 1.98 de altura, meus amigos dizem que sou um Nerd disfarçado
