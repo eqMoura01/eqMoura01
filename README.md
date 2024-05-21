@@ -38,7 +38,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Git](https://img.shields.io/badge/-%20%20%20GIT-grey?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/-%20%20%20GIT-black?style=for-the-badge&logo=git)
 
 ## ✅ Livros já lidos
 - Entendendo Algoritmos
