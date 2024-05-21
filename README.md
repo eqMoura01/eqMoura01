@@ -12,8 +12,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 - 🎓 Pode ser interessante: Sou considerado aluno destaque da faculdade
 - ⏰ Como passo meu tempo: Dando mentorias, livros técnicos e batendo um DayZ
 - 🧠 Uma frase: O conhecimento é a unica coisa que todos invejam mas ninguem pode roubar
-- 👨🏻‍💻 Work: ![https://imgs.search.brave.com/AD-GfbILmy0bSa3x0NNOeS2oEAoVLaQQk-p-VJvNnwI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dW5pc2VjLmNvbS5i/ci93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8wOS91bmlzZWMt/c2ltYm9sby1jb3Iu/anBn](https://img.shields.io/badge/https%3A%2F%2Fimgs.search.brave.com%2FAD-GfbILmy0bSa3x0NNOeS2oEAoVLaQQk-p-VJvNnwI%2Frs%3Afit%3A860%3A0%3A0%2Fg%3Ace%2FaHR0cHM6Ly93d3cu%2FdW5pc2VjLmNvbS5i%2Fci93cC1jb250ZW50%2FL3VwbG9hZHMvMjAy%2FMy8wOS91bmlzZWMt%2Fc2ltYm9sby1jb3Iu%2FanBn
-))
+- 👨🏻‍💻 Work: ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimgs.search.brave.com%2FAD-GfbILmy0bSa3x0NNOeS2oEAoVLaQQk-p-VJvNnwI%2Frs%3Afit%3A860%3A0%3A0%2Fg%3Ace%2FaHR0cHM6Ly93d3cu%2FdW5pc2VjLmNvbS5i%2Fci93cC1jb250ZW50%2FL3VwbG9hZHMvMjAy%2FMy8wOS91bmlzZWMt%2Fc2ltYm9sby1jb3Iu%2FanBn)
 
 ## Skills
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
