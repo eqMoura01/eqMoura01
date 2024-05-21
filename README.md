@@ -1,6 +1,6 @@
 # Olá! Me chamo Victor Mora, mas também sou conhecido como eqMoura 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolvedor apaixonado por Spring. Comecei nesse mundo quando tinha apenas 14 anos, brincado com servidores de GTA San Andreas. Tentei diversas outras áreas antes de me jogar no mundo tech de vez, lá por 2021/2022. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado. Sinta-se à vontade para explorar e colaborar!
+Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolvedor apaixonado por Spring. Comecei nesse mundo quando tinha apenas 14 anos, brincado com servidores de GTA San Andreas. Tentei diversas outras áreas antes de me jogar no mundo tech de vez, lá por 2021/2022. Aqui você encontrará alguns dos projetos pessoais e facultativos nos quais tenho trabalhado. Os profissionais somente nos repos empresariais. Sinta-se à vontade para explorar e colaborar!
 
 ## 🚀 Sobre Mim
 - 🎓 Formação: Cursando 3 fase de Analise e desenvolvimento de softwares pelo SENAC Florianopolis
@@ -12,6 +12,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 - 🎓 Pode ser interessante: Sou considerado aluno destaque da faculdade
 - ⏰ Como passo meu tempo: Dando mentorias, livros técnicos e batendo um DayZ
 - 🧠 Uma frase: O conhecimento é a unica coisa que todos invejam mas ninguem pode roubar
+- 👨🏻‍💻 Work: ![Unisec](https://imgs.search.brave.com/AD-GfbILmy0bSa3x0NNOeS2oEAoVLaQQk-p-VJvNnwI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dW5pc2VjLmNvbS5i/ci93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8wOS91bmlzZWMt/c2ltYm9sby1jb3Iu/anBn)
 
 ## Skills
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
