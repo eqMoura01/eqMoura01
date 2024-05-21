@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando como estagiario DEVops na empresa Unisec
 - 🌱 Atualmente estou aprendendo mais sobre ReactJS, Spring e todo o mundo de DEVops
 - ⚡ Se você tem um projeto e quer tirar do papel, me chama pra codar junto. Sou parceiro
-- 💬 Me pergunte sobre com o que sonho em trabalhar e eu te respondo: Spring
+- 💬 Me pergunte sobre com o que sonho em trabalhar e eu te respondo: Meu sonho é chegar a TechLead, tenho aptidão para liderança
 
 <!--
 **eqMoura01/eqMoura01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
