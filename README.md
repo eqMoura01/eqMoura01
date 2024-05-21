@@ -42,7 +42,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 - The Clean Coder
 - Clean Code
 - Como fazer amigos e influenciar pessoas
-- Clean Architeture
+- Clean Architecture
 - Ikigai
 - Poder e persuasão
 - Mais esperto que o Diabo
