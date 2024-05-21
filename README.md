@@ -12,3 +12,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 - 🎓 Pode ser interessante: Sou considerado aluno destaque da faculdade
 - ⏰ Como passo meu tempo: Dando mentorias, livros técnicos e batendo um DayZ
 - 🧠 Uma frase: O conhecimento é a unica coisa que todos invejam mas ninguem pode roubar
+
+## Skills
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]
