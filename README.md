@@ -15,6 +15,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 - 👨🏻‍💻 Work: [![Github Badge](https://img.shields.io/badge/-unisec-6633cc?style=flat-square&logo=Github&logoColor=white&link=http://github.com/unisec)](http://github.com/unisec) 
 
 ## Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
