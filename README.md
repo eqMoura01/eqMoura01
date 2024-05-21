@@ -1,6 +1,6 @@
 # Olá! Me chamo Victor Mora, mas também sou conhecido como eqMoura 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolvedor apaixonado por Spring. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado. Sinta-se à vontade para explorar e colaborar!
+Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolvedor apaixonado por Spring. Comecei nesse mundo quando tinha apenas 14 anos, brincado com servidores de GTA San Andreas. Tentei diversas outras áreas antes de me jogar no mundo tech de vez, lá por 2021/2022. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado. Sinta-se à vontade para explorar e colaborar!
 
 ## 🚀 Sobre Mim
 - 🎓 Formação: Cursando 3 fase de Analise e desenvolvimento de softwares pelo SENAC Florianopolis
