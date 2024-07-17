@@ -3,8 +3,8 @@
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolvedor apaixonado por Spring. Comecei nesse mundo quando tinha apenas 14 anos, brincado com servidores de GTA San Andreas. Tentei diversas outras áreas antes de me jogar no mundo tech de vez, lá por 2021/2022. Aqui você encontrará alguns dos projetos pessoais e facultativos nos quais tenho trabalhado. Os profissionais somente nos repos empresariais. Sinta-se à vontade para explorar e colaborar!
 
 ## 🚀 Sobre Mim
-- 🎓 Formação: Cursando 3 fase de Analise e desenvolvimento de softwares pelo SENAC Florianopolis
-- 💼 Atualmente trabalhando: Estagiario DEVops - Unisec
+- 🎓 Formação: Cursando 4ª fase de Analise e desenvolvimento de softwares pelo SENAC Florianopolis
+- 💼 Atualmente trabalhando como: Estagiario DEVops - Unisec
 - 🌱 Aprendendo: CI/CD, Docker, AWS
 - 💬 Pergunte-me sobre: Java e Spring
 - 📫 Como me encontrar: dev.junior20@gmail.com
