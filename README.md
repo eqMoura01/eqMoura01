@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 
 ## 🚀 Sobre Mim
 - 🎓 Formação: Cursando 4ª fase de Analise e desenvolvimento de softwares pelo SENAC Florianopolis
-- 💼 Atualmente trabalhando como: Estagiario DEVops - Unisec
+- 💼 Atualmente trabalhando como: Dev FullStack - Manager Systems
 - 🌱 Aprendendo: CI/CD, Docker, AWS
 - 💬 Pergunte-me sobre: Java e Spring
 - 📫 Como me encontrar: dev.junior20@gmail.com
@@ -12,7 +12,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 - 🎓 Pode ser interessante: Sou considerado aluno destaque da faculdade
 - ⏰ Como passo meu tempo: Dando mentorias, livros técnicos e batendo um DayZ
 - 🧠 Uma frase: O conhecimento é a unica coisa que todos invejam mas ninguem pode roubar
-- 👨🏻‍💻 Work: [![Github Badge](https://img.shields.io/badge/-unisec-6633cc?style=flat-square&logo=Github&logoColor=white&link=http://github.com/unisec)](http://github.com/unisec) 
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
