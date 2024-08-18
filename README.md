@@ -1,17 +1,17 @@
-# Olá! Me chamo Victor Mora, mas também sou conhecido como eqMoura 👋
+# Hello! My name is Victor Mora, but I'm also known as eqMoura 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolvedor apaixonado por Spring. Comecei nesse mundo quando tinha apenas 14 anos, brincado com servidores de GTA San Andreas. Tentei diversas outras áreas antes de me jogar no mundo tech de vez, lá por 2021/2022. Aqui você encontrará alguns dos projetos pessoais e facultativos nos quais tenho trabalhado. Os profissionais somente nos repos empresariais. Sinta-se à vontade para explorar e colaborar!
+Welcome to my GitHub profile! I'm a technology enthusiast and a developer passionate about Spring. I started in this world when I was just 14, playing with GTA San Andreas servers. I tried several other areas before fully diving into the tech world around 2021/2022. Here you'll find some of my personal and academic projects. The professional ones are only in company repositories. Feel free to explore and collaborate!
 
-## 🚀 Sobre Mim
-- 🎓 Formação: Cursando 4ª fase de Analise e desenvolvimento de softwares pelo SENAC Florianopolis
-- 💼 Atualmente trabalhando como: Dev FullStack - Manager Systems
-- 🌱 Aprendendo: CI/CD, Docker, AWS
-- 💬 Pergunte-me sobre: Java e Spring
-- 📫 Como me encontrar: dev.junior20@gmail.com
-- ⚡ Fato divertido: Tenho 1.98 de altura, pessoas próximas me chamam de Nerd disfarçado
-- 🎓 Pode ser interessante: Sou considerado aluno destaque da faculdade
-- ⏰ Como passo meu tempo: Dando mentorias, livros técnicos e batendo um DayZ
-- 🧠 Uma frase: O conhecimento é a unica coisa que todos invejam mas ninguem pode roubar
+## 🚀 About Me
+- 🎓 Education: Currently in the 4th semester of Software Analysis and Development at SENAC Florianópolis
+- 💼 Currently working as: FullStack Developer - Manager Systems
+- 🌱 Learning: CI/CD, Docker, AWS
+- 💬 Ask me about: Java and Spring
+- 📫 How to reach me: dev.junior20@gmail.com
+- ⚡ Fun fact: I'm 1.98m tall, and close friends call me a "disguised nerd"
+- 🎓 Interesting fact: I'm considered a standout student at college
+- ⏰ How I spend my time: Mentoring, reading technical books, and playing DayZ
+- 🧠 A quote: Knowledge is the only thing everyone envies but no one can steal
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -39,16 +39,16 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de tecnologia e desenvolved
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Git](https://img.shields.io/badge/-%20%20%20GIT-black?style=for-the-badge&logo=git)
 
-## ✅ Livros já lidos
-- Entendendo Algoritmos
+## ✅ Books I've Read
+- Understanding Algorithms
 - The Clean Coder
 - Clean Code
-- Como fazer amigos e influenciar pessoas
+- How to Win Friends and Influence People
 - Clean Architecture
 - Ikigai
-- Poder e persuasão
-- Mais esperto que o Diabo
+- Power and Persuasion
+- Outwitting the Devil
 
-## 📚 Livros na lista
-- As 48 leis do poder
-- Manual de persuasão do FBI
+## 📚 Books on My List
+- The 48 Laws of Power
+- The FBI Guide to Persuasion
