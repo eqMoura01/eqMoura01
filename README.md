@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a technology enthusiast and a developer passio
 
 ## 🚀 About Me
 - 🎓 Education: Currently in the 4th semester of Software Analysis and Development at SENAC Florianópolis
-- 💼 Currently working as: FullStack Developer - Manager Systems
-- 🌱 Learning: CI/CD, Docker, AWS
+- 💼 Currently working as: FullStack Engineer - Manager Systems
+- 🌱 Learning: Angular, WebRTC, STUN/TURN Servers
 - 💬 Ask me about: Java and Spring
 - 📫 How to reach me: dev.junior20@gmail.com
 - ⚡ Fun fact: I'm 1.98m tall, and close friends call me a "disguised nerd"
