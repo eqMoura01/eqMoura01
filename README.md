@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a technology enthusiast and a developer passionate about Spring. I started in this world when I was just 14, playing with GTA San Andreas servers. I tried several other areas before fully diving into the tech world around 2021/2022. Here you'll find some of my personal and academic projects. The professional ones are only in company repositories. Feel free to explore and collaborate!
 
 ## 🚀 About Me
-- 🎓 Education: Currently in the 4th semester of Software Analysis and Development at SENAC Florianópolis
 - 💼 Currently working as: FullStack Engineer - Manager Systems
 - 🌱 Learning about: Angular, WebRTC, STUN/TURN Servers, IceCandidates
 - 💬 Ask me about: Java and Spring
@@ -12,6 +11,7 @@ Welcome to my GitHub profile! I'm a technology enthusiast and a developer passio
 - 🎓 Interesting fact: I'm considered a standout student at college
 - ⏰ How I spend my time: Mentoring, reading technical books, and playing DayZ
 - 🧠 A quote: Knowledge is the only thing everyone envies but no one can steal
+- 🌐 My site: braddock-tech.com
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
