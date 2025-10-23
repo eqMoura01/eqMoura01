@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a technology enthusiast and a developer passio
 - 🎓 Interesting fact: I'm considered a standout student at college
 - ⏰ How I spend my time: Mentoring, reading technical books, and playing DayZ
 - 🧠 A quote: Knowledge is the only thing everyone envies but no one can steal
-- 🌐 My site: braddock-tech.com
+- 🌐 My site: ![braddock-tech.com](https://braddock-tech.com)
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
