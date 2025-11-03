@@ -3,10 +3,9 @@
 Welcome to my GitHub profile! I'm a technology enthusiast and a developer passionate about Spring. I started in this world when I was just 14, playing with GTA San Andreas servers. I tried several other areas before fully diving into the tech world around 2021/2022. Here you'll find some of my personal and academic projects. The professional ones are only in company repositories. Feel free to explore and collaborate!
 
 ## 🚀 About Me
-- 💼 Currently working as: FullStack Engineer - Manager Systems
 - 🌱 Learning about: Angular, WebRTC, STUN/TURN Servers, IceCandidates
 - 💬 Ask me about: Java and Spring
-- 📫 How to reach me: dev.junior20@gmail.com
+- 📫 How to reach me: victorlvmora@gmail.com
 - ⚡ Fun fact: I'm 1.98m tall, and close friends call me a "disguised nerd"
 - 🎓 Interesting fact: I'm considered a standout student at college
 - ⏰ How I spend my time: Mentoring, reading technical books, and playing DayZ
