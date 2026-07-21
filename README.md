@@ -34,18 +34,6 @@ I got into tech at 14 building GTA San Andreas servers. After exploring other pa
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=eqMoura01&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eqMoura01&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🛠️ Stack
 
 ### Backend & Architecture
@@ -88,7 +76,7 @@ I got into tech at 14 building GTA San Andreas servers. After exploring other pa
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Dental Sync**](https://github.com/eqMoura01/back-dental-sync) | Backend + API for dental clinics | Java · Spring |
+| [**Dental Sync**](https://github.com/eqMoura01/back-dental-sync) | Backend + API for dental clinics | Java · Spring · OpenAi |
 | [**Videochat Spring**](https://github.com/eqMoura01/videochat-spring) | Video calls with WebRTC and STUN/TURN | Spring · WebRTC |
 | [**DF-S Notas**](https://github.com/eqMoura01/df-s-notas) | Layered architecture grade management system | Java · Spring |
 | [**Web Chat WebSocket**](https://github.com/eqMoura01/web-chat-websocket) | Real-time chat with WebSocket | Java · Spring |
