@@ -1,6 +1,6 @@
 # Olá! Eu sou Victor Mora, também conhecido como eqMoura 👋
 
-**Software Engineer** · Florianópolis, SC · ADS (5º semestre) · Fundador da [Bradock Tech](https://braddock-tech.com)
+**Software Engineer** · Fundador da [Bradock Tech](https://braddock-tech.com)
 
 Engenheiro de software com foco em **Java/Spring** no backend e **React/TypeScript** no frontend. Trabalho com microserviços, integrações AWS e dashboards de dados em tempo real. Fora do corporativo, desenvolvo sites e landing pages de alta performance pela Bradock Tech.
 
