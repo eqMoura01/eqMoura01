@@ -1,35 +1,36 @@
-# Olá! Eu sou Victor Mora, também conhecido como eqMoura 👋
+# Hi! I'm Victor Mora, also known as eqMoura 👋
 
-**Software Engineer** · Fundador da [Braddock Tech](https://braddock-tech.com)
+**Software Engineer** · Founder at [Braddock Tech](https://braddock-tech.com) · **Open to international remote opportunities**
 
-Engenheiro de software focado em **backend, arquitetura de sistemas e soluções com IA como núcleo do negócio**. Desenho microserviços, integrações AWS e pipelines de dados — conectando modelos de linguagem a sistemas reais via **Model Context Protocol (MCP)**.
+Software engineer focused on **backend, system architecture, and AI-native solutions** — where intelligence is the core of the product, not an afterthought. I design microservices, AWS integrations, and data pipelines, connecting language models to real-world systems through the **Model Context Protocol (MCP)**.
 
-Comecei na tecnologia aos 14 anos montando servidores de GTA San Andreas. Depois de passar por outras áreas, mergulhei de vez no mundo dev em **2018**. Aqui você encontra projetos pessoais e experimentos — os profissionais ficam nos repositórios das empresas.
-
----
-
-## 🚀 Sobre mim
-
-- 🎯 **Foco:** backend, arquitetura distribuída e soluções onde IA é o core — não um adicional
-- 🤖 **IA & MCP:** agentes, automações e integrações LLM ↔ APIs/bancos de dados via MCP servers
-- 💼 **Trabalho com:** microserviços Spring Boot, APIs REST, datalakes, AWS (Lambda, SQS, ECS) e infraestrutura Terraform
-- 🌱 **Aprendendo:** Spring Boot 4, arquitetura orientada a agentes e observabilidade de sistemas com IA
-- 💬 **Pergunte sobre:** Java, Spring, arquitetura de software, AWS, MCP e boas práticas de código limpo
-- 📫 **Contato:** [victorlvmora@gmail.com](mailto:victorlvmora@gmail.com)
-- 🌐 **Site:** [braddock-tech.com](https://braddock-tech.com)
-- ⚡ **Curiosidade:** tenho 1,98 m — amigos próximos me chamam de "nerd disfarçado"
-- ⏰ **Tempo livre:** mentoria, livros técnicos, DayZ e projetos pessoais
-- 🧠 **Frase:** *"Conhecimento é a única coisa que todos invejam, mas ninguém pode roubar."*
+I got into tech at 14 building GTA San Andreas servers. After exploring other paths, I fully committed to software development in **2018**. You'll find personal projects and experiments here — professional work lives in company repositories.
 
 ---
 
-## 🎓 Certificação
+## 🚀 About Me
 
-| Curso | Instituição | Conclusão |
-|-------|-------------|-----------|
-| [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol) | Anthropic Academy | Abril/2026 |
+- 🌍 **Open to:** international roles, **remote-first** preferred
+- 🎯 **Focus:** backend, distributed architecture, and solutions where AI is the core
+- 🤖 **AI & MCP:** agents, automations, and LLM ↔ API/database integrations via MCP servers
+- 💼 **Working with:** Spring Boot microservices, REST APIs, datalakes, AWS (Lambda, SQS, ECS), and Terraform
+- 🌱 **Currently learning:** Spring Boot 4, agent-oriented architecture, and AI system observability
+- 💬 **Ask me about:** Java, Spring, software architecture, AWS, MCP, and clean code
+- 📫 **Contact:** [victorlvmora@gmail.com](mailto:victorlvmora@gmail.com)
+- 🌐 **Website:** [braddock-tech.com](https://braddock-tech.com)
+- ⚡ **Fun fact:** I'm 1.98 m tall — close friends call me a "disguised nerd"
+- ⏰ **Free time:** mentoring, technical books, DayZ, and side projects
+- 🧠 **Quote:** *"Knowledge is the only thing everyone envies but no one can steal."*
 
-🔗 [Verificar certificado](https://verify.skilljar.com/c/xvcn639n8odi)
+---
+
+## 🎓 Certification
+
+| Course | Institution | Completed |
+|--------|-------------|-----------|
+| [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol) | Anthropic Academy | April 2026 |
+
+🔗 [Verify certificate](https://verify.skilljar.com/c/xvcn639n8odi)
 
 ---
 
@@ -47,7 +48,7 @@ Comecei na tecnologia aos 14 anos montando servidores de GTA San Andreas. Depois
 
 ## 🛠️ Stack
 
-### Backend & Arquitetura
+### Backend & Architecture
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-59666C?style=for-the-badge&logo=apache&logoColor=white)
@@ -58,12 +59,12 @@ Comecei na tecnologia aos 14 anos montando servidores de GTA San Andreas. Depois
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### IA & Integrações
+### AI & Integrations
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-### Complementar
+### Supporting
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,31 +74,31 @@ Comecei na tecnologia aos 14 anos montando servidores de GTA San Andreas. Depois
 
 ---
 
-## 💼 O que faço hoje
+## 💼 What I Do
 
-| Área | Descrição |
-|------|-----------|
-| **Corporativo** | Arquitetura e backend de plataformas de inteligência territorial — microserviços Java 21 + Spring Boot 4, datalakes PostgreSQL, pipelines AWS e automações com agentes IA via MCP |
-| **Braddock Tech** | Soluções sob medida com backend robusto, arquitetura escalável e IA integrada ao fluxo de negócio |
-| **Pessoal** | MCP servers customizados, scrapers Python, automações e experimentos com agentes |
-
----
-
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**Dental Sync**](https://github.com/eqMoura01/back-dental-sync) | Backend + API para clínicas odontológicas | Java · Spring |
-| [**Videochat Spring**](https://github.com/eqMoura01/videochat-spring) | Videochamada com WebRTC e STUN/TURN | Spring · WebRTC |
-| [**DF-S Notas**](https://github.com/eqMoura01/df-s-notas) | Sistema de notas com arquitetura em camadas | Java · Spring |
-| [**Web Chat WebSocket**](https://github.com/eqMoura01/web-chat-websocket) | Chat em tempo real com WebSocket | Java · Spring |
-| [**Bot Raid Killfeed**](https://github.com/eqMoura01/bot-raid-killfeed) | Bot Discord para automação de killfeed | Python |
-
-> Projetos comerciais da Braddock Tech estão em repositórios privados.
+| Area | Description |
+|------|-------------|
+| **Enterprise** | Architecture and backend for territorial intelligence platforms — Java 21 + Spring Boot 4 microservices, PostgreSQL datalakes, AWS pipelines, and AI agent automations via MCP |
+| **Braddock Tech** | Custom solutions with robust backends, scalable architecture, and AI embedded in the business flow |
+| **Personal** | Custom MCP servers, Python scrapers, automations, and agent experiments |
 
 ---
 
-## ✅ Livros que li
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Dental Sync**](https://github.com/eqMoura01/back-dental-sync) | Backend + API for dental clinics | Java · Spring |
+| [**Videochat Spring**](https://github.com/eqMoura01/videochat-spring) | Video calls with WebRTC and STUN/TURN | Spring · WebRTC |
+| [**DF-S Notas**](https://github.com/eqMoura01/df-s-notas) | Layered architecture grade management system | Java · Spring |
+| [**Web Chat WebSocket**](https://github.com/eqMoura01/web-chat-websocket) | Real-time chat with WebSocket | Java · Spring |
+| [**Bot Raid Killfeed**](https://github.com/eqMoura01/bot-raid-killfeed) | Discord bot for raid killfeed automation | Python |
+
+> Braddock Tech commercial projects are in private repositories.
+
+---
+
+## ✅ Books I've Read
 
 - Understanding Algorithms
 - The Clean Coder
@@ -108,7 +109,7 @@ Comecei na tecnologia aos 14 anos montando servidores de GTA San Andreas. Depois
 - Power and Persuasion
 - Outwitting the Devil
 
-## 📚 Na fila
+## 📚 Reading List
 
 - The 48 Laws of Power
 - The FBI Guide to Persuasion
@@ -117,6 +118,8 @@ Comecei na tecnologia aos 14 anos montando servidores de GTA San Andreas. Depois
 
 <div align="center">
 
-**Vamos construir algo juntos?** [victorlvmora@gmail.com](mailto:victorlvmora@gmail.com) · [braddock-tech.com](https://braddock-tech.com)
+**Let's build something together?** [victorlvmora@gmail.com](mailto:victorlvmora@gmail.com) · [braddock-tech.com](https://braddock-tech.com)
+
+🌍 **Available for international remote roles**
 
 </div>
